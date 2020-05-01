@@ -136,6 +136,20 @@ used. The data for participant 102 was lost due to technical
 difficulties. In yet another subsequent testing session, the participant
 numbers 120–137 were used. The data for participant 125 was lost due to
 difficulties. The participant numbers 58–99 and 106–119 were never used.
+
+## Analysis scripts
+
+There is an analysis script for each of the Experiments, 1, 2,
+and 3. These scripts reproduce the figures, tables, and analyses
+reported in our paper.
+
+Moreover, we also report several Monte Carlo simulations (see paper for
+details). These simulations can be recreated exactly with the code in
+`analysis/mc_simulations.R`. They are recreated exactly due to a random
+seed being set; if you'd like to conduct different simulations, change
+lines 226, 236, 246, 256, 269, 279, 289, and 299 of the code.
+
+
 <!-- links -->
 [git-lfs]: https://git-lfs.github.com/
 [git-hooks]: https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
