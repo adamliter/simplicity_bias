@@ -1,0 +1,2 @@
+# -*- coding: utf-8; fill-column: 72; mode: conf; -*-
+*.wav filter=lfs diff=lfs merge=lfs -text
