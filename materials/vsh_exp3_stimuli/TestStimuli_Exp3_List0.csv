@@ -1,0 +1,3 @@
+SEGMENT,VOICING,STOP,PLACE,SEGMENT2,SEGMENT3,SEGMENT4,STIMULUS,TYPE,GENERAL_TYPE,SOUND
+d,yes,yes,alveolar,i,b,a,diba,OldTestStimuli,Test,Recordings/diba.wav
+b,yes,yes,bilabial,u,d,a,buda,OldTestStimuli,Test,Recordings/buda.wav

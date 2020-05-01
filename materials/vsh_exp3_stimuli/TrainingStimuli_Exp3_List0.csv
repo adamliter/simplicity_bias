@@ -1,0 +1,5 @@
+SEGMENT,VOICING,STOP,PLACE,SEGMENT2,SEGMENT3,SEGMENT4,STIMULUS,TYPE,GENERAL_TYPE,SOUND
+f,no,no,bilabial,u,f,a,fufa,TrainingItems,Training,Recordings/fufa.wav
+v,yes,no,bilabial,i,z,u,vizu,TrainingItems,Training,Recordings/vizu.wav
+p,no,yes,bilabial,a,t,i,pati,TrainingItems,Training,Recordings/pati.wav
+z,yes,no,alveolar,a,v,a,zava,TrainingItems,Training,Recordings/zava.wav
