@@ -67,6 +67,75 @@ use all of the ones that we generated—are included in the directories
 `materials/vsh_exp1_stimuli`, `materials/vsh_exp2_stimuli`, and
 `materials/vsh_exp3_stimuli`. We've also included the R scripts used to
 generate these files in the `R` directory.
+
+## Data
+
+### Experiment 1
+
+For each participant in Experiment 1, there is a CSV file file with
+their data in the directory `data/exp1`. In the paper, we report testing
+25 native-English-speaking participants; we also tested several
+non-native speakers of English because of the manner in which the data
+was collected (as extra credit for a class). The data files for these
+participants—participants 2, 3, 4, 6, 7, 11, 14, 16, 17, 26, and 27—are
+not included in this public repository because they were never going to
+be included in the analysis. Furthermore, participant 28 did not
+complete the test part of the experiment, so their data is not included
+in this public repository, and the data from participants 13 and 21 was
+lost due to technical difficulties.
+
+We did, however, decide to exclude 2 of the 25 native speakers of
+English from the analysis due to non-learning (see the paper for more
+details), and so we've included the data for these 2
+participants—participants 12 and 32—are included in this public
+repository.
+
+### Experiment 2
+
+For each participant in Experiment 2, there is a CSV file with their
+data in the directory `data/exp2`. In the paper, we report testing 78
+native-English-speaking participants; we also tested several non-native
+speakers of English because of the manner in which the data was
+collected (as extra credit for a class). The data files for these
+participants—participants 13, 14, 16, 28, 33, 37, 38, 40, 56, 60, 61,
+70, 72, 76, 81, 86, 88, 90, and 94—are not included in this public
+repository because they were never going to be included in the
+analysis. Furthermore, participant 24 accidentally quit the experiment
+halfway through and then started over; because they did half of the
+experiment twice, their data was not analyzed and so is not included in
+this public repository. Moreover, participant 74's data was lost due to
+technical difficulties.
+
+Additionally, we excluded 15 of the 78 participants due to non-learning
+(see the paper for more details). The data for these participants is
+included in this public repository. The non-learners were participants
+8, 18, 26, 27, 41, (the second) 46, 49, 50, 51, 59, 68, 69, 75, 89, and
+92. (Participant numbers 44, 45, 46, 47, and 48 were accidentally used
+twice, so it was the second participant 46—the one who completed the
+experiment on November 4—that was a non-learner.)
+
+### Experiment 3
+
+For each participant in Experiment 3, there is a CSV file with their
+data in the directory `data/exp3`. In the paper, we report testing 51
+native-English-speaking participants; we also tested several non-native
+speakers of English because of the manner in which the data was
+collected (as extra credit for a class). The data files for these
+participants—participants 5, 6, 7, 8, 9, 10, 11, 16, 18, 19, 21, 27, 30,
+31, 34, 40, 50, 52, 54, 55, 57, 100, 101, 103, 104, 105, 121, and
+122—are not included in this public repository because they were never
+going to be included in the analysis.
+
+The participant numbers 1–57 were used in the first several testing
+sessions, although the participant who should have been participant 42
+changed their participant number to 1, so there are two participants
+with the original participant number of "1".
+
+In a subsequent testing session, the participant numbers 100–105 were
+used. The data for participant 102 was lost due to technical
+difficulties. In yet another subsequent testing session, the participant
+numbers 120–137 were used. The data for participant 125 was lost due to
+difficulties. The participant numbers 58–99 and 106–119 were never used.
 <!-- links -->
 [git-lfs]: https://git-lfs.github.com/
 [git-hooks]: https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
