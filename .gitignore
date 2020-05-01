@@ -1,0 +1,13 @@
+# -*- coding: utf-8; fill-column: 72; mode: conf; -*-
+
+*.DS_Store
+.AppleDouble
+.LSOverride
+*~
+\#*\#
+._*
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
