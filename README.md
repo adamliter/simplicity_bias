@@ -1,11 +1,17 @@
 # Simplicity bias
 
+[![DOI](https://zenodo.org/badge/doi/10.1017/S0952675720000093.svg)][doi]
+
 ## Overview
 
 This repository contains the materials for the experiments in Durvasula
 & Liter (2020) as well as the data files and analysis scripts. If you
-make use of the materials in this repository, please cite Durvasula &
-Liter (2020).
+make use of the materials in this repository, please cite our paper,
+Durvasula & Liter (2020). It is currently accepted for publication with
+*Phonology*, and its DOI will be [`10.1017/S0952675720000093`][doi]. For
+now, you can access a preprint of the paper on
+[LingBuzz][lingbuzz]. Complete bibliographic information will be added
+to this repository as soon as it is available.
 
 ## Cloning this repository
 
@@ -151,6 +157,8 @@ lines 226, 236, 246, 256, 269, 279, 289, and 299 of the code.
 
 
 <!-- links -->
+[doi]: https://dx.doi.org/10.1017/S0952675720000093
+[lingbuzz]: https://ling.auf.net/lingbuzz/005120
 [git-lfs]: https://git-lfs.github.com/
 [git-hooks]: https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
 [peirce2007]: https://dx.doi.org/10.1016/j.jneumeth.2006.11.017
