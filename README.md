@@ -6,12 +6,25 @@
 
 This repository contains the materials for the experiments in Durvasula
 & Liter (2020) as well as the data files and analysis scripts. If you
-make use of the materials in this repository, please cite our paper,
-Durvasula & Liter (2020). It is currently accepted for publication with
-*Phonology*, and its DOI will be [`10.1017/S0952675720000093`][doi]. For
-now, you can access a preprint of the paper on
-[LingBuzz][lingbuzz]. Complete bibliographic information will be added
-to this repository as soon as it is available.
+make use of the materials in this repository, please cite our paper:
+
+- Durvasula, Karthik & Adam Liter. 2020. There is a simplicity bias when
+  generalising from ambiguous data. Phonology 37(2). 177–213. doi:
+  [10.1017/S0952675720000093][doi].
+
+Here is a BibTeX entry:
+
+``` text
+@article{durvasula2020,
+  Author = {Durvasula, Karthik and Liter, Adam},
+  Doi = {10.1017/S0952675720000093},
+  Journal = {Phonology},
+  Number = {2},
+  Pages = {177--213},
+  Title = {There Is a Simplicity Bias When Generalising from Ambiguous Data},
+  Volume = {37},
+  Year = {2020}}
+```
 
 ## Cloning this repository
 
